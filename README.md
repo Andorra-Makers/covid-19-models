@@ -1,5 +1,6 @@
-# covid-19-models
-Models preparats per la crisi del COVID-19
+# Models COVID-19
+
+Models utilitzats durant la crisi del COVID-19
 
 ## Calibrador de fluxe
 Primer pas! Molt important: modificar només l'expansión horizontal!
@@ -32,6 +33,7 @@ Sense suports
 
 17 grams, ~1 hora
 
+
 ## Salva-orelles
 
 Salva-orelles Per a mascaretes amb gomes. En tres talles: 10cm, 14cm o 18cm
@@ -39,7 +41,9 @@ Salva-orelles Per a mascaretes amb gomes. En tres talles: 10cm, 14cm o 18cm
 La talla 14cm és la més normal.
 
 [Descàrrega el salvaorelles de 10cm](SALVAORELLES_10.stl)
+
 [Descàrrega el salvaorelles de 14cm](SALVAORELLES_14.stl)
+
 [Descàrrega el salvaorelles de 18cm](SALVAORELLES_18.stl)
 
 ~2 grams, ~10 min	
